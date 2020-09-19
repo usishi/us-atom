@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-     "cmd-alt-e": "us-atom:insertErr"
+     "ctrl-alt-cmd-e": "us-atom:insertErr"
   }
 }
