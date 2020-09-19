@@ -1,0 +1,18 @@
+{
+  "name": "us-atom",
+  "main": "./lib/us-atom",
+  "version": "0.0.0",
+  "description": "Usishi ICT Atom Editor Package for easy&standart development",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "us-atom:toggle"
+  },
+  "repository": "https://github.com/atom/us-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

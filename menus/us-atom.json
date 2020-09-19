@@ -1,0 +1,31 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle us-atom",
+        "command": "us-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "us-atom",
+          "submenu": [
+						{
+							"label": "Insert",
+		          "submenu": [
+								{
+              		"label": "New Error Code",
+              		"command": "us-atom:insertErr"
+								}
+							]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
